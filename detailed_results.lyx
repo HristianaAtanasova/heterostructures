@@ -466,10 +466,12 @@ Density of states
 \end_layout
 
 \begin_layout Standard
+\align center
 \begin_inset Float figure
+placement H
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \align center
@@ -490,7 +492,11 @@ status open
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-DOS
+DOS for equilibrium (left) and with 
+\begin_inset Formula $E=4.0$
+\end_inset
+
+ (right).
 \end_layout
 
 \end_inset
@@ -499,6 +505,50 @@ DOS
 \end_layout
 
 \begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename figures/dos_U1=0.0_U2=4.0_l=2_F=7.0.pdf
+	scale 80
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename figures/dos_U1=0.0_U2=4.0_l=2_F=10.0.pdf
+	scale 80
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+DOS for electric field 
+\begin_inset Formula $E=7.0$
+\end_inset
+
+ (left) and 
+\begin_inset Formula $E=10.0$
+\end_inset
+
+ (right).
+\end_layout
+
+\end_inset
+
 
 \end_layout
 
@@ -514,9 +564,185 @@ DOS
 
 \end_layout
 
+\begin_layout Standard
+\align center
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename figures/dos_U1=0.0_U2=4.0_l=3_F=0.0.pdf
+	scale 80
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename figures/dos_U1=0.0_U2=4.0_l=3_F=4.0.pdf
+	scale 80
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+DOS for equilibrium (left) and with 
+\begin_inset Formula $E=4.0$
+\end_inset
+
+ (right).
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename figures/dos_U1=0.0_U2=4.0_l=3_F=7.0.pdf
+	scale 80
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename figures/dos_U1=0.0_U2=4.0_l=3_F=10.0.pdf
+	scale 80
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+DOS for electric field 
+\begin_inset Formula $E=7.0$
+\end_inset
+
+ (left) and 
+\begin_inset Formula $E=10.0$
+\end_inset
+
+ (right).
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subsection
 \noindent
 \begin_inset Formula $l=4$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename figures/dos_U1=0.0_U2=4.0_l=4_F=0.0.pdf
+	scale 80
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename figures/dos_U1=0.0_U2=4.0_l=4_F=4.0.pdf
+	scale 80
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+DOS for equilibrium (left) and with 
+\begin_inset Formula $E=4.0$
+\end_inset
+
+ (right).
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename figures/dos_U1=0.0_U2=4.0_l=4_F=7.0.pdf
+	scale 80
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename figures/dos_U1=0.0_U2=4.0_l=4_F=10.0.pdf
+	scale 80
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+DOS for electric field 
+\begin_inset Formula $E=7.0$
+\end_inset
+
+ (left) and 
+\begin_inset Formula $E=10.0$
+\end_inset
+
+ (right).
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \end_inset
 
 
@@ -533,6 +759,94 @@ Currents
 
 \end_layout
 
+\begin_layout Standard
+\align center
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename figures/current_U1=0.0_U2=4.0_l=2_F=0.0.pdf
+	scale 80
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename figures/current_U1=0.0_U2=4.0_l=2_F=4.0.pdf
+	scale 80
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+currents for equilibrium (left) and with 
+\begin_inset Formula $E=4.0$
+\end_inset
+
+ (right)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename figures/current_U1=0.0_U2=4.0_l=2_F=7.0.pdf
+	scale 80
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename figures/current_U1=0.0_U2=4.0_l=2_F=10.0.pdf
+	scale 80
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+currents for electric field 
+\begin_inset Formula $E=7.0$
+\end_inset
+
+ (left) and with 
+\begin_inset Formula $E=10.0$
+\end_inset
+
+ (right)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subsection
 \begin_inset Formula $l=3$
 \end_inset
@@ -540,8 +854,184 @@ Currents
 
 \end_layout
 
+\begin_layout Standard
+\align center
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename figures/current_U1=0.0_U2=4.0_l=3_F=0.0.pdf
+	scale 80
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename figures/current_U1=0.0_U2=4.0_l=3_F=4.0.pdf
+	scale 80
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+currents for equilibrium (left) and with 
+\begin_inset Formula $E=4.0$
+\end_inset
+
+ (right)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename figures/current_U1=0.0_U2=4.0_l=3_F=7.0.pdf
+	scale 80
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename figures/current_U1=0.0_U2=4.0_l=3_F=10.0.pdf
+	scale 80
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+currents for electric field 
+\begin_inset Formula $E=7.0$
+\end_inset
+
+ (left) and with 
+\begin_inset Formula $E=10.0$
+\end_inset
+
+ (right)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subsection
 \begin_inset Formula $l=4$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename figures/current_U1=0.0_U2=4.0_l=4_F=0.0.pdf
+	scale 80
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename figures/current_U1=0.0_U2=4.0_l=4_F=4.0.pdf
+	scale 80
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+currents for equilibrium (left) and with 
+\begin_inset Formula $E=4.0$
+\end_inset
+
+ (right)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename figures/current_U1=0.0_U2=4.0_l=4_F=7.0.pdf
+	scale 80
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename figures/current_U1=0.0_U2=4.0_l=4_F=10.0.pdf
+	scale 80
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+currents for electric field 
+\begin_inset Formula $E=7.0$
+\end_inset
+
+ (left) and with 
+\begin_inset Formula $E=10.0$
+\end_inset
+
+ (right)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \end_inset
 
 

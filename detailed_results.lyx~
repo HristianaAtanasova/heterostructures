@@ -465,6 +465,48 @@ Density of states
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename figures/dos_U1=0.0_U2=4.0_l=2_F=0.0.pdf
+	scale 80
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename figures/dos_U1=0.0_U2=4.0_l=2_F=4.0.pdf
+	scale 80
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+DOS
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subsection
 \begin_inset Formula $l=3$
 \end_inset

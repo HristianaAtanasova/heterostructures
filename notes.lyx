@@ -1,0 +1,308 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Heterostructures 
+\end_layout
+
+\begin_layout Section
+Colloquium: Emergent properties in plane view: strong correlations at oxide
+ interfaces
+\end_layout
+
+\begin_layout Standard
+This Colloquium illustrates the essential features that make TMO-based heterostr
+uctures an appealing discovery platform for emergent properties.
+ The guiding principle is that strong electronic correlations in combination
+ with the access to new symmetries and electronic band structures provided
+ by oxide interfaces can activate new electronic properties formerly “hidden”
+ in bulk compounds.
+\end_layout
+
+\begin_layout Subsection
+ANATOMY OF AN OXIDE INTERFACE
+\end_layout
+
+\begin_layout Standard
+The formation of a coherent perovskite oxide heterointerface, as shown in
+ Figure 1, provides a remarkable correlated electron “playground.” It brings
+ different transition metal cations with their localized d electron physics
+ and interacting charge, spin and lattice degrees of freedom into intimate
+ contact in a tunable crystalline environment.
+ The key structural features of transition metal oxides relate to the coordinati
+on geometry 5 of the metal ions and the metal-oxygen-metal bond angles.
+ These determine magnetic exchange interactions (Anderson, 1950; Goodenough,
+ 1955; Kanamori, 1965) and electronic bandwidths (Eng et al., 2003), thereby
+ controlling the electronic and magnetic ground states.
+ Structural and electronic changes across an interface can act to stabilize
+ previously unanticipated phases of matter (Okamoto and Millis, 2004).
+\end_layout
+
+\begin_layout Standard
+To summarize, the following degrees of freedom are highly tunable at an
+ oxide interface and may be exploited in uncovering new phases: 
+\end_layout
+
+\begin_layout Standard
+• Epitaxial strain mismatch owing to differences in equilibrium lattice
+ parameters 
+\end_layout
+
+\begin_layout Standard
+• Atomic coordination frustration and cation site preferences
+\end_layout
+
+\begin_layout Standard
+• Ordered spin and orbital states
+\end_layout
+
+\begin_layout Standard
+• Charge flow across the interface (layer dipole discontinuities) 
+\end_layout
+
+\begin_layout Standard
+• Chemical frustration and interlayer mixing
+\end_layout
+
+\begin_layout Subsection
+CHARGE AT THE INTERFACE
+\end_layout
+
+\begin_layout Standard
+Understanding and controlling the distribution of charge carriers at the
+ interface between dissimilar semiconductors is one of the pivotal developments
+ of modern microelectronics (Gertner, 2013) important both for devices and
+ as a crucial platform for discovery of remarkable physical phenomena including
+ integer and fractionally quantized Hall effects as well as spin-Hall and
+ other spintronic phenomena.
+\end_layout
+
+\begin_layout Section
+Electronic transport and dynamics in correlated heterostructures
+\end_layout
+
+\begin_layout Subsection
+Introduction 
+\end_layout
+
+\begin_layout Itemize
+Transition metal oxides (TMO) have a variety of interesting phenomena caused
+ by two competing tendencies of the valence electrons: one is to localize
+ near the ionic position and the other to delocalize in the lattice.
+ The reason for this behavior are the partially filled outer d-shells, which
+ result in narrow electronic bands and increase the importance of electron-elect
+ron interactions.
+ 
+\end_layout
+
+\begin_layout Itemize
+The effects of the strong correlation are not limited to bulk properties,
+ they can induce remarkable effects at the surface or at the interface of
+ materials.
+ Lately, the quest for a theoretical understanding of how bulk correlations
+ influence the reconstruction of the surface electronic phase triggered
+ a great deal of attention.
+\end_layout
+
+\begin_layout Itemize
+The development of time-resolved experiments triggered a huge interest in
+ the nonequilibrium phenomena occurring in correlated systems.
+ Attention is devoted to understand the mechanisms responsible for the dielectri
+c breakdown of the Mott insulating state.
+\end_layout
+
+\begin_layout Itemize
+Large electric ﬁeld lead to both broken spatial and time translation invariance
+ and the difficulty in treating on the same level inhomogeneity and real-time
+ dynamics has slowed down the theoretical advance in this ﬁeld.
+ The initial steps focused mainly on stationary states in heterostructures.
+\end_layout
+
+\begin_layout Itemize
+In this work we study the nonequilibrium dynamics of a strongly correlated
+ heterostructure coupled to external metallic leads and driven out of equilibriu
+m by a voltage potential bias.
+ Using a suitable formulation of the time-dependent Gutzwiller (TDG) method
+ we study the dynamics of the inhomogeneous system and its nonlinear transport
+ properties.
+ 
+\end_layout
+
+\begin_layout Subsection
+Strongly correlated metal
+\end_layout
+
+\begin_layout Itemize
+U is smaller than the critical value for the Mott transition 
+\begin_inset Formula $U_{c}$
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Itemize
+Dynamical formation of surface states with enhanced metallic character after
+ the sudden coupling to external metallic leads: Consider a slab in a metallic
+ state in the absence of the bias, when the correlation strength is smaller
+ than the critical value for a Mott transition.
+ Initially we focused on the zero-bias regime and studied the spreading
+ of the doubly occupied sites injected into the slab after a sudden switch
+ of a tunneling amplitude with the metal leads.
+ Ballistic propagation of the perturbation inside the slab is found, leaving
+ the system in a stationary state equal to the equilibrium one, with an
+ excess of double occupancies concentrated near the contacts and a consequent
+ enhancement of the quasiparticle weight at the boundaries of the slab.
+ We characterized this “awakening” dynamics of the living layer from the
+ initial dead one in terms of a characteristic time scale which diverges
+ at the Mott transition.
+ This divergence allow us to identify this time scale as the dynamical counterpa
+rt of the equilibrium correlation length ξ .
+\end_layout
+
+\begin_layout Itemize
+Formation of current-carrying stationary states in the presence of a ﬁnite
+ voltage bias depends directly on the value of the coupling between the
+ slab and the leads.
+ For weak coupling between the leads and the slab there are stationary currents
+ ﬂowing in a wide range of bias.
+ Conversely for large couplings a strong-bias regime in which the system
+ is trapped into a metastable state characterized by an effective slab-leads
+ decoupling is identified.
+ This is due to an exceedingly fast energy increase and to the lack of strong
+ dissipative processes in the Gutzwiller method, which prevents the injected
+ energy from ﬂowing back into the leads and the current to reach a stationary
+ value.
+ 
+\end_layout
+
+\begin_layout Itemize
+Studying the current-bias characteristics in the range of parameter for
+ which the system is able to reach a nonequilibrium stationary state: a
+ crossover from a low-bias linear regime, which is universal with respect
+ to the interaction 
+\begin_inset Formula $U$
+\end_inset
+
+, to a regime with negative differential conductance typical of ﬁnite bandwidth
+ systems is found.
+ 
+\end_layout
+
+\begin_layout Subsection
+Mott insulating regime 
+\end_layout
+
+\begin_layout Itemize
+Mott insulating regime for 
+\begin_inset Formula $U>U_{c}$
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Itemize
+Following the same analysis of the metallic case: formation of evanescent
+ bulk quasiparticles after a sudden switch of the slab-leads tunneling amplitude
+ in a zero-bias setup.
+ In this case, the living layer formation is accompanied by an exponential
+ growth of the quasiparticle weight, suggestive of a strong feedback between
+ the dynamics of the quasiparticles and the local degrees of freedom.
+ 
+\end_layout
+
+\begin_layout Itemize
+In the presence of a ﬁnite bias, we study the conditions under which these
+ evanescent quasiparticles can lead to the opening of a conducting channel
+ through the insulating slab.
+ At very low bias this is the case only for a very small slab, for which
+ the correlation length ξ is of the same order of the slab size.
+ For larger samples we found that the currents are exponentially activated
+ with a threshold bias 
+\begin_inset Formula $\Delta V_{th}$
+\end_inset
+
+which increases with the slab size.
+ This behavior is suggestive of a Landau-Zener type of dielectric breakdown,
+ as found in previous DMFT studies and in agreement with equilibrium calculation
+s of the tunneling amplitude for a quasiparticle through an insulating slab.
+\end_layout
+
+\end_body
+\end_document

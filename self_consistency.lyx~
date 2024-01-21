@@ -207,15 +207,6 @@ v_{\mathrm{layer}}=(v+\bar{v})*(1-2/\mathrm{dim})+v_{0}/\mathrm{dim}
 \end_inset
 
 for three dimensions.
- The parameter 
-\begin_inset Formula $dim$
-\end_inset
-
- is the spatial dimension of the system and 
-\begin_inset Formula $v_{0}=1$
-\end_inset
-
-.
  
 \end_layout
 
@@ -228,28 +219,21 @@ After computing the Green's functions for the impurity sites
 \begin_inset Formula $8$
 \end_inset
 
-, we can update the hybridization functions for each site using the self-consist
-ency: 
+, we can update the hybridization functions with the self-consistency: 
 \begin_inset Formula 
 \[
-\Delta_{\mathrm{site}}^{\sigma}=v_{\mathrm{left}}*\mathrm{Green}_{site-1}^{\sigma}+v_{\mathrm{layer}}*\mathrm{Green}_{\mathrm{site}}^{\sigma}+v_{\mathrm{right}}*\mathrm{Green}_{\mathrm{site}+1}^{\sigma}.
+\Delta_{\mathrm{site}}^{\sigma}=v_{\mathrm{left}}*\mathrm{Green}_{site-1}^{\sigma}+v_{\mathrm{layer}}*\mathrm{Green}_{\mathrm{site}}^{\sigma}+v_{\mathrm{right}}*\mathrm{Green}_{\mathrm{site}+1}^{\sigma}
 \]
 
 \end_inset
 
-for sites 
-\begin_inset Formula $1...N-1$
-\end_inset
-
-.
- The hybridization function or the first and the last site are given by:
- 
+with the exception of the first and the last site: 
 \end_layout
 
 \begin_layout Standard
 \begin_inset Formula 
 \[
-\Delta_{0}^{\sigma}=v_{\mathrm{left}}*\mathrm{Green}_{0}^{\bar{\sigma}}+v_{\mathrm{layer}}*\mathrm{Green}_{\mathrm{0}}^{\sigma}+v_{\mathrm{right}}*\mathrm{Green}_{\mathrm{1}}^{\sigma},
+\Delta_{0}^{\sigma}=v_{\mathrm{left}}*\mathrm{Green}_{0}^{\bar{\sigma}}+v_{\mathrm{layer}}*\mathrm{Green}_{\mathrm{site}}^{\sigma}+v_{\mathrm{right}}*\mathrm{Green}_{\mathrm{site+1}}^{\sigma},
 \]
 
 \end_inset
@@ -257,7 +241,7 @@ for sites
 
 \begin_inset Formula 
 \[
-\Delta_{\mathrm{N}}^{\sigma}=v_{\mathrm{left}}*\mathrm{Green}_{\mathrm{N}-1}^{\sigma}+v_{\mathrm{layer}}*\mathrm{Green}_{\mathrm{N}}^{\sigma}+v_{\mathrm{right}}*\mathrm{Green}_{\mathrm{N}}^{\bar{\sigma}}.
+\Delta_{N}^{\sigma}=v_{\mathrm{left}}*\mathrm{Green}_{site-1}^{\sigma}+v_{\mathrm{layer}}*\mathrm{Green}_{\mathrm{site}}^{\sigma}+v_{\mathrm{right}}*\mathrm{Green}_{N}^{\bar{\sigma}}.
 \]
 
 \end_inset
