@@ -187,9 +187,9 @@ c breakdown of the Mott insulating state.
 \end_layout
 
 \begin_layout Itemize
-Large electric ﬁeld lead to both broken spatial and time translation invariance
+Large electric field lead to both broken spatial and time translation invarience
  and the difficulty in treating on the same level inhomogeneity and real-time
- dynamics has slowed down the theoretical advance in this ﬁeld.
+ dynamics has slowed down the theoretical advance in this field.
  The initial steps focused mainly on stationary states in heterostructures.
 \end_layout
 
@@ -216,34 +216,60 @@ U is smaller than the critical value for the Mott transition
  
 \end_layout
 
+\begin_layout Subsubsection
+Zero bias regime
+\end_layout
+
 \begin_layout Itemize
-Dynamical formation of surface states with enhanced metallic character after
- the sudden coupling to external metallic leads: Consider a slab in a metallic
- state in the absence of the bias, when the correlation strength is smaller
- than the critical value for a Mott transition.
- Initially we focused on the zero-bias regime and studied the spreading
- of the doubly occupied sites injected into the slab after a sudden switch
+After coupling to external metallic leads a formation of surface states
+ with enhanced metallic character appears.
+\end_layout
+
+\begin_layout Itemize
+In the absence of a bias doubly occupied sites spread after a sudden switch
  of a tunneling amplitude with the metal leads.
- Ballistic propagation of the perturbation inside the slab is found, leaving
- the system in a stationary state equal to the equilibrium one, with an
- excess of double occupancies concentrated near the contacts and a consequent
- enhancement of the quasiparticle weight at the boundaries of the slab.
- We characterized this “awakening” dynamics of the living layer from the
- initial dead one in terms of a characteristic time scale which diverges
- at the Mott transition.
- This divergence allow us to identify this time scale as the dynamical counterpa
-rt of the equilibrium correlation length ξ .
+ 
+\end_layout
+
+\begin_layout Itemize
+Ballistic propagation of the perturbation inside the slab leaves the system
+ in a stationary state equal to the equilibrium one with an excess of double
+ occupancy concentrated near the contacts and a enhancement of the quasi
+ particle weight at the boundaries of the slab
+\end_layout
+
+\begin_layout Itemize
+“Awakening” dynamics of the living layer from the initial dead one in terms
+ of a characteristic time scale which diverges at the Mott transition, this
+ divergence identifies this time scale as the dynamical counterpart of the
+ equilibrium correlation length 
+\begin_inset Formula $ξ$
+\end_inset
+
+ .
+\end_layout
+
+\begin_layout Subsubsection
+Finite voltage 
 \end_layout
 
 \begin_layout Itemize
 Formation of current-carrying stationary states in the presence of a ﬁnite
  voltage bias depends directly on the value of the coupling between the
  slab and the leads.
- For weak coupling between the leads and the slab there are stationary currents
+ 
+\end_layout
+
+\begin_layout Itemize
+For weak coupling between the leads and the slab there are stationary currents
  ﬂowing in a wide range of bias.
- Conversely for large couplings a strong-bias regime in which the system
- is trapped into a metastable state characterized by an effective slab-leads
- decoupling is identified.
+ 
+\end_layout
+
+\begin_layout Itemize
+Conversely for large couplings there is a strong-bias regime in which the
+ system is trapped into a metastable state characterized by an effective
+ slab-leads decoupling.
  This is due to an exceedingly fast energy increase and to the lack of strong
  dissipative processes in the Gutzwiller method, which prevents the injected
  energy from ﬂowing back into the leads and the current to reach a stationary
