@@ -263,9 +263,13 @@ Formation of current-carrying stationary states in the presence of a ﬁnite
 \begin_layout Itemize
 For weak coupling between the leads and the slab there are stationary currents
  ﬂowing in a wide range of bias.
- Conversely for large couplings a strong-bias regime in which the system
- is trapped into a metastable state characterized by an effective slab-leads
- decoupling is identified.
+ 
+\end_layout
+
+\begin_layout Itemize
+Conversely for large couplings there is a strong-bias regime in which the
+ system is trapped into a metastable state characterized by an effective
+ slab-leads decoupling.
  This is due to an exceedingly fast energy increase and to the lack of strong
  dissipative processes in the Gutzwiller method, which prevents the injected
  energy from ﬂowing back into the leads and the current to reach a stationary
